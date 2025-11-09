@@ -6,15 +6,15 @@ const closeBtn = document.getElementById("closeBtn");
 const sideMenu = document.getElementById("sideMenu");
 
 const events = [
-  { name: "La Conquête de la Gaule et la Bataille d'Alésia", img: "images/alesia.jpg", link: "pages/alesia.html" },
-  { name: "La Guerre de Cent Ans et Jeanne d’Arc", img: "images/joanofarc.jpg", link: "pages/joan.html" },
-  { name: "La Renaissance et l’Humanisme", img: "images/renaissance.jpg", link: "pages/renaissance.html" },
-  { name: "Louis XIV et l’Âge d’Or", img: "images/louisxiv.jpg", link: "pages/louis.html" },
-  { name: "Napoléon et la Bataille de Waterloo", img: "images/napoleon.jpg", link: "pages/napoleon.html" },
-  { name: "Colonisation et Décolonisation", img: "images/colonisation.jpg", link: "pages/colonisation.html" },
-  { name: "La France pendant la Première Guerre mondiale", img: "images/ww1.jpg", link: "pages/ww1.html" },
-  { name: "La France pendant la Seconde Guerre mondiale", img: "images/ww2.jpg", link: "pages/ww2.html" },
-  { name: "Les Révoltes étudiantes de mai 1968", img: "images/1968.jpg", link: "pages/may1968.html" }
+  { name: "La Conquête de la Gaule et la Bataille d'Alésia", img: "Images/alesia.jpg", link: "pages/alesia.html" },
+  { name: "La Guerre de Cent Ans et Jeanne d’Arc", img: "Images/joanofarc.jpg", link: "pages/joan.html" },
+  { name: "La Renaissance et l’Humanisme", img: "Images/renaissance.jpg", link: "pages/renaissance.html" },
+  { name: "Louis XIV et l’Âge d’Or", img: "Images/louisxiv.jpg", link: "pages/louis.html" },
+  { name: "Napoléon et la Bataille de Waterloo", img: "Images/napoleon.jpg", link: "pages/napoleon.html" },
+  { name: "Colonisation et Décolonisation", img: "Images/colonisation.jpg", link: "pages/colonisation.html" },
+  { name: "La France pendant la Première Guerre mondiale", img: "Images/ww1.jpg", link: "pages/ww1.html" },
+  { name: "La France pendant la Seconde Guerre mondiale", img: "Images/ww2.jpg", link: "pages/ww2.html" },
+  { name: "Les Révoltes étudiantes de mai 1968", img: "Images/1968.jpg", link: "pages/may1968.html" }
 ];
 
 // Update event display on input
